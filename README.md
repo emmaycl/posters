@@ -1,6 +1,6 @@
 # Posters
 
-This repository contains selected research posters by **Emma Lou** as part of her academic portfolio.
+This repository contains selected research posters by **Emma Yicheng Lou** as part of her academic portfolio.
 
 - **Emma_poster_Edmondson2023.pdf**  
   Poster presenting proteomic biomarker discovery for early sepsis detection using MALDI-TOF mass spectrometry.
