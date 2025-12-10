@@ -8,5 +8,5 @@ This repository contains selected research posters by **Emma Yicheng Lou** as pa
 - **Emma_poster_MDA24.pdf**  
   Poster presenting evaluation and enhancement of a digital pathology model using multimodal data and spatial transcriptomics.
 
--**LogM_Poster.pdf**
+- **LogM_Poster.pdf**
 Poster presenting an algorithmic framework for comparing weak orders between translation invariant total orders. The work includes inversion set decomposition, normalization of window notation, design of the comparison algorithm, and visualization of local Hasse diagrams. Authors are listed in alphabetical order.
